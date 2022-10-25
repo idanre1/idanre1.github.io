@@ -24,12 +24,16 @@ use_math: True
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: PaperMod
+# theme: minima
+remote_theme: hydecorp/hydejack@v9.1.6
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
   - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
 
 titles_from_headings:
   enabled:     true
