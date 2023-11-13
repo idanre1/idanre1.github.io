@@ -11,3 +11,6 @@
 ## טיוטה
 טיוטת תבע 2016  
 <https://storageblobidan.blob.core.windows.net/public/draft_2016.zip>
+## תבע הרחבה
+תבע ישנה 2012 - מספרי מגרשים    
+<https://storageblobidan.blob.core.windows.net/public/2012_taba_ext_old.pdf>
